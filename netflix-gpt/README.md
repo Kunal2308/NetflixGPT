@@ -19,7 +19,9 @@
 -Update the Profile
 -BugFix- Sign Up user displayName and Profile Picture update
 -BugFix- If the user is not logged in redirect /browse to Login Page and vice-vesra
+-Unsubscribe to onAuthStateChanged callback
 -//ToDo Fetch from TMBD movies.
+-Add hardcoded values to constant file
 
 -Browse(after authontication)
 -Header

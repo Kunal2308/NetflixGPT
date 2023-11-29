@@ -9,6 +9,7 @@ import {
 } from "firebase/auth";
 import { useDispatch } from "react-redux";
 import { addUser } from "../utils/userSlice";
+import { USER_AVATAR } from "../utils/constants";
 
 const Login = () => {
   const [isSignInForm, setIsSignInForm] = useState(true);
@@ -47,7 +48,7 @@ const Login = () => {
             // console.log("Sign Up", user);
             updateProfile(user, {
               displayName: name.current.value,
-              photoURL: "https://www.svgrepo.com/download/43426/profile.svg",
+              photoURL: USER_AVATAR,
             })
               .then(() => {
                 const { uid, email, displayName, photoURL } = auth.currentUser;
