@@ -20,8 +20,18 @@
 -BugFix- Sign Up user displayName and Profile Picture update
 -BugFix- If the user is not logged in redirect /browse to Login Page and vice-vesra
 -Unsubscribe to onAuthStateChanged callback
--//ToDo Fetch from TMBD movies.
 -Add hardcoded values to constant file
+-Register to TMBD and get access token.
+-Fetch Data from TMDB now playing list
+-Custom Hook for Now Playing API
+-Created Movie Slice
+-Updated Store with movie data
+-Planning for Main Container and Secondary Container
+
+- Fetch data for trailer video
+  -Update Store with movie trailer video
+  -Embedded the Youtube video and enable autoplay and mute
+  -Tailwind classname to me it look like Netflix
 
 -Browse(after authontication)
 -Header
