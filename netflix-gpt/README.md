@@ -27,20 +27,25 @@
 -Created Movie Slice
 -Updated Store with movie data
 -Planning for Main Container and Secondary Container
+-Fetch data for trailer video
+-Update Store with movie trailer video
+-Embedded the Youtube video and enable autoplay and mute
+-Tailwind classname to me it look like Netflix
+-Build Secondary Container
+-Build the Movie List
+-Build the Movie Card
+-TMDB Image URL
+-improved Browse UI better using Tailwing
+-custom Hook for pupular,top rated and upcoming movies
 
-- Fetch data for trailer video
-  -Update Store with movie trailer video
-  -Embedded the Youtube video and enable autoplay and mute
-  -Tailwind classname to me it look like Netflix
+- -Browse(after authontication)
+  -Header
+  -Main Movie
+  -Tailior in Background
+  -Title & Discription
+  -MovieSuggestion
+  -MovieList\*N
 
--Browse(after authontication)
--Header
--Main Movie
--Tailior in Background
--Title & Discription
--MovieSuggestion
--MovieList\*N
-
--NetflixGPT
--Serach Bar
--Movie Suggestion
+  -NetflixGPT
+  -Serach Bar
+  -Movie Suggestion
