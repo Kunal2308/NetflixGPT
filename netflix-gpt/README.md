@@ -1,4 +1,11 @@
 #NetflixGPT
+{/_
+Main Container
+-Video Background
+-Video Title
+Secondary Container
+-Movie Card_ - Cards*n
+*/}
 
 -Create React App
 -Configure TailwindCSS
@@ -37,6 +44,10 @@
 -TMDB Image URL
 -improved Browse UI better using Tailwing
 -custom Hook for pupular,top rated and upcoming movies
+-GTP Search button
+-GPT Search Page
+-GPT Serach Bar
+-Multi-Lang Feature in our App
 
 - -Browse(after authontication)
   -Header
