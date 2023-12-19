@@ -48,6 +48,14 @@ Secondary Container
 -GPT Search Page
 -GPT Serach Bar
 -Multi-Lang Feature in our App
+-Get OpenAi Key
+-GPT Search API call
+-feactch getMovieSuggestion from TMDB
+-create gptSlice
+-Reused MovieList component to make movie suggestion continer
+-Memoization
+-Add .env file and adding it to git ignore
+-Making app mobile responsive
 
 - -Browse(after authontication)
   -Header
